@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+ 
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>jontoo</name>
+		<description></description>
+		<homepage>https://github.com/jonathanallenwillis/jontoo</homepage>
+		<owner>
+			<email></email>
+		</owner>
+		<source type="git"></source>
+	</repo>
+</repositories>
